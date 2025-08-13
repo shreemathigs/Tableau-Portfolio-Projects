@@ -1,6 +1,10 @@
 # Tableau-Portfolio-Projects
 
 This repository showcases four interactive dashboards I built using Tableau, covering different domains and demonstrating advanced data visualization techniques.
+- **1. Polycystic Ovary Syndrome(PCOS): Trends & Analysis Dashboard**
+- **2. E-Commerce Sales Dashboard**
+- **3. College Placement Insights and Outcomes Dashboard**
+- **4. Freelance Market Trends and Performance Insights Dashboard**
 
 ---
 
@@ -41,7 +45,9 @@ This repository showcases four interactive dashboards I built using Tableau, cov
 
 ![Freelance Dashboard](https://github.com/shreemathigs/Tableau-Portfolio-Projects/blob/a1fc925eddc79036a4529e9fbafec77f74ab3897/Freelance%20Earnings%20Charts.png)  
 
-![Freelance Dashboard](https://github.com/shreemathigs/Tableau-Portfolio-Projects/blob/a1fc925eddc79036a4529e9fbafec77f74ab3897/Freelance%20Charts.png)  
+![Freelance Dashboard](https://github.com/shreemathigs/Tableau-Portfolio-Projects/blob/a1fc925eddc79036a4529e9fbafec77f74ab3897/Freelance%20Charts.png) 
+
+![Freelance Dashboard](https://github.com/shreemathigs/Tableau-Portfolio-Projects/blob/47fe69e89746769385f52834ce3e0c8c3d9047ab/Freelance%20Bubble%20Chart%20View.png)
 
 ![Freelance Dashboard](https://github.com/shreemathigs/Tableau-Portfolio-Projects/blob/a1fc925eddc79036a4529e9fbafec77f74ab3897/Freelance%20Table%20View.png)
 
